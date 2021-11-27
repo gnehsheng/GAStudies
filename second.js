@@ -1,2 +1,2 @@
-let name = sheng
-console.log(`My name is $(name)`)
+let name = 'sheng'
+console.log(`My name is ${name}`)
