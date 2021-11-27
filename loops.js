@@ -9,3 +9,11 @@ let condition = true
 
 // use while if indeterminate no. of iterations of loop is going to run
 // for loop when you know how many iterations you need to run
+
+
+
+// for (init: test: update) {logic}
+
+ for (let i = 0; i < 10; i++) {
+     console.log(i)
+ }
