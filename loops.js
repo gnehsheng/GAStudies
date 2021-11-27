@@ -15,5 +15,5 @@ let condition = true
 // for (init: test: update) {logic}
 
  for (let i = 0; i < 10; i++) {
-     console.log(i)
+     console.log(`The number is ${i}`)
  }
